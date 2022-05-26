@@ -1,0 +1,52 @@
+Difference between procedural and object oriented programming
+A.(What are they?)
+1.Procedural programming follows a set of instructions to solve a specific problem,it comprises of functions
+which are arranged sequentially so that the program can be executed in an order.
+2.Object oriented programming uses objects and these objects combine entities and methods to perform specific tasks
+
+B.(Where they are used?)
+1.Procedural oriented programming are used in small codebases ,but as the size of the program increases it becomes
+difficult to maintain
+2.Object oriented programming can be used in large code bases znd the code can be reused at several places to overcome
+the problem of code redundancy.
+
+C.(Security)
+1.In procedural programming the data is not secure.
+2.In object oriented programming the data is secure due to encapsulation,we can hide the details and display only
+the things that are needed.
+
+D.(Approach of programming)
+1.Procedural programming follows a top down approach.
+2.Object oriented programming follows a bottom up approach that is first solve the smaller sub problem and 
+then combine them together to form a big problem.
+
+E.(Access Modifiers)
+1.Procedural programming doesnt use access modifiers as there is no concept of inheritance or classes in procedural
+oriented programming.
+2.We can restrict the access of specific data members and functions in a class by using access modifiers
+like public,private,protected .These access modifiers are extremely useful when using the concept of 
+inheritance.
+
+
+Fundamental concepts of OOPS:
+1.Inheritance 
+2.Polymorphism
+3.Abstraction
+4.Encapsulation 
+
+Inheritance:
+1.The process of inheriting the properties of the parent to the child is called inheritance.
+2.The class whose properties are inherited is called as the base class and the class that inherits it
+is called as the derived class.
+
+Polymorphism:
+Poly means many and morph means form.So it bascially means many forms.It can be achieved by having the 
+same function name but having different number and type of parameters.
+It is of two types -Compile time and run time
+Compile time:Function Overloading,Function Overriding
+Runtime:Operator Overloading
+
+_ represents protected and __ represents private
+
+
+
